@@ -1,0 +1,22 @@
+{
+  "name": "rgb-generater",
+  "version": "1.0.0",
+  "description": "This package provides a simple function to generate a random RGB color. The generated color is represented as a string in the format \"rgb(R, G, B)\", where R, G, and B are random values for the red, green, and blue components, respectively.This package is a lightweight utility for projects that require random colors, such as in UI design, data visualization, or any context where a diverse set of colors is needed. Users can easily integrate it by installing the package and using the exported getRandomColor function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MUmairS/RGB-Generater.git"
+  },
+  "keywords": [
+    "RGB"
+  ],
+  "author": "M.Umair Shoukat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MUmairS/RGB-Generater/issues"
+  },
+  "homepage": "https://github.com/MUmairS/RGB-Generater#readme"
+}
